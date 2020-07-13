@@ -5,14 +5,13 @@ Thanks and welcome to my github profile and projects. Here is a quick summary of
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
-| [**99**](https://github.com//gimseng/99-ML-Learning-Projects/) | [![GitHub issues](https://img.shields.io/github/issues//gimseng/99-ML-Learning-Projects?color=green&logo=github&style=flat)](https://github.com//gimseng/99-ML-Learning-Projects/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr//gimseng/99-ML-Learning-Projects?style=flat&logo=github)](https://github.com//gimseng/99-ML-Learning-Projects/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed//gimseng/99-ML-Learning-Projects?style=flat&color=critical&logo=github)](https://github.com//gimseng/99-ML-Learning-Projects/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**99**](https://github.com//gimseng/99-ML-Learning-Projects/) | [![GitHub issues](https://img.shields.io/github/issues//gimseng/99-ML-Learning-Projects?color=green&logo=github&style=flat)](https://github.com//gimseng/99-ML-Learning-Projects/issues)
 
 
 
 
 
 <!--
-| [**Water Monitoring System**](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   |
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
