@@ -5,7 +5,7 @@ Thanks and welcome to my github profile and projects. Here is a quick summary of
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
-| [**99**](https://github.com//gimseng/99-ML-Learning-Projects/) | [![GitHub issues](https://img.shields.io/github/issues/gimseng/99-ML-Learning-Projects)](https://github.com//gimseng/99-ML-Learning-Projects/issues)
+| [**99**](https://github.com//gimseng/99-ML-Learning-Projects/) | [![GitHub issues](https://img.shields.io/github/issues/gimseng/99-ML-Learning-Projects?color=green&logo=github&style=flat)](https://github.com//gimseng/99-ML-Learning-Projects/issues)
 
 
 
